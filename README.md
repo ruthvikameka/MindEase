@@ -1,7 +1,7 @@
 
 # Mood Tracker Mobile App
 
-Developed a mobile application Rahat Book, built using Jetpack Compose and Kotlin in Android Studio, this app allows users to track their mood, write notes, and receive helpful tips for their mental health.
+Developed a mobile application named Rahat Book, built using Jetpack Compose and Kotlin in Android Studio, this app allows users to track their mood, write notes, and receive helpful tips for their mental health.
 
 
 
